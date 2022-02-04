@@ -1,2 +1,2 @@
 # CSCI_561_USC
-My homework solution &amp; Sketch
+My homework solution &amp; Notes
